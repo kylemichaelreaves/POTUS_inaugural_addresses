@@ -2,4 +2,5 @@
 
 .txt files of every available inaugural address for every POTUS, numbered in sequential order. 
 
-I'll update with Biden's inaugural address on the 20th. 
+
+Update: 20 January 2021. President Biden's inaugural address has been added. 
